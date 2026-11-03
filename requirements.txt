@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-core
+langchain-ollama
+langgraph-checkpoint-postgres
+psycopg[binary]
+python-dotenv
+langchain-huggingface
+sentence-transformers
+fastapi 
+uvicorn
+
+
